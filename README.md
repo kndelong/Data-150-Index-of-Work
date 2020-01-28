@@ -9,7 +9,7 @@ Keagan DeLong
 
 1. 
 
-##Assignments
+## Assignments
 
  1. Annotated Bibliography
   - Problem Statement
