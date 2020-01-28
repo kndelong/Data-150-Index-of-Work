@@ -1,4 +1,5 @@
-# Keagan's Response to Joshua Blumenstock's Article
+# Keagan's Response to Joshua Blumenstock's Article 
+## "Don’t forget people in the use of big data for development"
 
 What is the promise of data science as it related to human developement? What are some pitt falls?
 
