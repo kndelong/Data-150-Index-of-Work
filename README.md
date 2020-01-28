@@ -3,7 +3,7 @@
 Keagan DeLong
 ## Informal Responses to Readings
 
-1. [Blumenstock](/kndelong/workshop/blob/master/blumenstock)
+1. [Blumenstock](https://github.com/kndelong/workshop/blob/master/blumenstock.md)
 
 ## Projects
 
