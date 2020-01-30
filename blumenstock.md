@@ -1,9 +1,9 @@
 # Keagan's Response to Joshua Blumenstock's Article 
 ## "Don’t forget people in the use of big data for development"
 
-### What is the promise of data science as it related to human developement? What are some pitt falls?
+##### What is the promise of data science as it related to human developement? What are some pitt falls?
 
-### How do you respond to these ideas regarding “good intent”, “transparency” and the difficult “balancing act” when considering the intersection of human development with data science?
+##### How do you respond to these ideas regarding “good intent”, “transparency” and the difficult “balancing act” when considering the intersection of human development with data science?
 ------------------------------------------------------------------------------------------------------------------------------------------
 
   Finding the line between civil duty to act and to what extent to intervene in foreign affairs is a convoluted topic, especially when large troves of personal data are involved in this affair. The use of big data for identifying areas of poverty based of digital signatures from personal data transmitted and collected on mobile phone networks begs the question of security; how can individuals, many of whom do not know their data is being used, consent to their personal data being used by private corporations and governments? The rise of digital credit, or loans given based on cell phone usage, provides an example of how people's data can be used for profit. As stated in Blumenstock's article, most digital customers are first time borrowers and are unaware of interest rates or the complete terms of the loans they are agreeing to. This shows that corporations can use data like this, to target poorer, uninformed populations of people and exploit their ignorance to the digital credit system. When developing systems that can accurately create maps of poverty, banks can take advantage of these areas in that also most likely have low literacy rates. With a lack of information being given, cycles of poverty and debt traps are created because of either uniformed or misinformed populations taking these digital loans. 
