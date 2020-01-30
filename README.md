@@ -1,4 +1,4 @@
-# Index of my work
+# An Index of my work
 
 Keagan DeLong
 ## Informal Responses to Readings
