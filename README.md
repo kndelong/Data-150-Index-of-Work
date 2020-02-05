@@ -4,7 +4,7 @@ Keagan DeLong
 ## Informal Responses to Readings
 
 1. [Blumenstock Question](https://kndelong.github.io/workshop/blumenstock) (1-28-2020)
-2. [Response to Reading #2](https://github.com/kndelong/workshop/blob/master/Reading_%232) (2-4-2020)
+2. [Response to Reading #2](https://kndelong.github.io/workshop/Reading2) (2-4-2020)
 
 ## Projects
 
