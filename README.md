@@ -13,11 +13,6 @@ Keagan DeLong
 ## Assignments
 
  1. Annotated Bibliography
-  - Problem Statement
-    -Harm
-    -Significance of those harms
-    -Inherent Nature of the problems
-  - Selected LMIC of Region
-  - Dimention of Human Developement
+ - [Assignment 1](https://kndelong.github.io/Data-150-Index-of-Work/Assignment1%3BAnnotatedBib)
   
  2. Literature Review
