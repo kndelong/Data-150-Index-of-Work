@@ -40,6 +40,6 @@ Fluctuations of poverty are reflected by the economic upheavals in the Russian e
 
 #### Summary
 
-Across all five sources, there is a collection of information that details issues that pertain to the state of human development in Russia. The common factor in each of these published peices can be utilized in conjunction with one another to develop a sense of being in the Russian Federation. The regional marketing of infrastucture can be used to develop an idea of how to identify, interpret, and postulate how to deal with the issues concerning mortality, economic policy, and poverty. There is not one correct answer of how to address these issues. 
+Across all five sources, there is a collection of information that details issues that pertain to the state of human development in Russia. The common factor in each of these published peices can be utilized in conjunction with one another to develop a sense of the conditions in the Russian Federation. The regional marketing of infrastucture can be used to develop an idea of how to identify, interpret, and postulate how to deal with the issues concerning mortality, economic policy, and poverty. There is not one correct answer of how to address these issues, nor are any of these issues unique to Russia. 
 
 
