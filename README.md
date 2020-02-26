@@ -5,7 +5,7 @@ Keagan DeLong
 
 1. [Blumenstock Question](https://kndelong.github.io/Data-150-Index-of-Work/blumenstock) (1-28-2020)
 2. [Response to Reading #2](https://kndelong.github.io/Data-150-Index-of-Work/Reading2) (2-4-2020)
-3. [Wired Response](https://kndelong.github.io/Data-150-Index-of-Work/2252020)
+3. [Wired Response](https://kndelong.github.io/Data-150-Index-of-Work/2252020) (2-25-2020)
 
 ## Projects
 
