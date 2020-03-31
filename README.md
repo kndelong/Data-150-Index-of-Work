@@ -16,6 +16,6 @@ Keagan DeLong
 ## Assignments
 
  1. Annotated Bibliography
- - [Assignment 1](https://kndelong.github.io/Data-150-Index-of-Work/Assignment1%3BAnnotatedBib)
+ - [Assignment 1](https://kndelong.github.io/Data-150-Index-of-Work/Assignment1:AnnotatedBib)
   
  2. Literature Review
