@@ -9,10 +9,6 @@ Keagan DeLong
 4. [Stevens Response](https://kndelong.github.io/Data-150-Index-of-Work/3262020) (3-26-2020)
 5. [Nieves Response](https://kndelong.github.io/Data-150-Index-of-Work/03312020) (3-31-2020)
 
-## Projects
-
-1. 
-
 ## Assignments
 
  1. Annotated Bibliography
