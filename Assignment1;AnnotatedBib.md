@@ -1,6 +1,6 @@
 
 
-## Assignment 1; Annotated Bibliography
+## Assignment: Annotated Bibliography
 
 ##### Keagan DeLong
 
