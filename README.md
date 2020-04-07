@@ -16,3 +16,4 @@ Keagan DeLong
  - [Assignment 1](https://kndelong.github.io/Data-150-Index-of-Work/Assignment1:AnnotatedBib)
   
  2. Literature Review
+ - [Assignment 2](https://kndelong.github.io/Data-150-Index-of-Work/Assignment2)
