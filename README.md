@@ -17,3 +17,6 @@ Keagan DeLong
   
  2. Literature Review
  - [Assignment 2](https://kndelong.github.io/Data-150-Index-of-Work/Assignment2)
+ 
+ 3. Investigate a methodology
+ - [Assignment3](https://kndelong.github.io/Data-150-Index-of-Work/Assignment3)
