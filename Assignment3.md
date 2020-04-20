@@ -16,7 +16,8 @@ A recurrent neural network (RNNs) is a FFNN with enhancements. Nodes are connect
 ## Method 2: 
 
 A Bayesian model is a statistical method where probability is used to represent uncertainty within a model using Bayes’ rule. This method updates the probability of an initial hypothesis as more evidence and information becomes available. 
-(insert Bayes’ theorem)
+
+![] Screenshot_4.png
 
 -H is the hypothesis that may be influenced by the data- what is the outcome we are looking for?
 
