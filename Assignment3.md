@@ -10,14 +10,22 @@ An exploratory approach to the application of a machine learning method that cou
 ## Method 1: Neural Networks
 
 Neural networks are machine learning programs inspired by the biology of a brain. Much like the interconnectedness of neurons in a brain. A neural net works by feeding data inputs into trained, interconnected, layered nodes. A layer of nodes receives an input from the layer beneath it and assigns a weighted number associated with a desired outcome, then passes that data to multiple nodes above it which repeat the process until the end criteria is met. Each weight assignment is made at random at the initial start of the program. A range of values is set for each of the nodes that serve as threshold criteria to pass to the next layer. Weights and threshold values are constantly adjusted to product consistent results. (Hardesty, 2017) This explanation represents a feed forward neural network (FFNNs). This network can theoretically always model the relationship between input and output given enough neurons(nodes). 
+![](ff_1.png)
 
-A recurrent neural network (RNNs) is a FFNN with enhancements. Nodes are connected through passes of the program. Information is fed from the previous layer and from the same node of a pervious pass. This method could serve to identify connections between indicators that are not apparent to a strait forward method of analysis. RNNs are often used in applications that advance and complete information such as autocompletion. An application such as this to living standard data could be used to predict the ‘missing letters’ that could advance human development. Neural nets as a whole also allow for vast troves of data to be collected and used in conjunction with one another. A problem arises in entire datasets of indicators would have to be compressed into single variables. The compression of this data might open the possibility for points to be lost to an expansive list of points thus limiting the accuracy of the prediction. In essence, the method would be handicapped by its size.  
+This an illustration of a simple feed forward neural network
+
+
+A recurrent neural network (RNNs) is a FFNN with enhancements. Nodes are connected through passes of the program. Information is fed from the previous layer and from the same node of a pervious pass. This method could serve to identify connections between indicators that are not apparent to a strait forward method of analysis. RNNs are often used in applications that advance and complete information such as autocompletion. An application such as this to living standard data could be used to predict the ‘missing letters’ that could advance human development. Neural nets as a whole also allow for vast troves of data to be collected and used in conjunction with one another. A problem arises in entire datasets of indicators would have to be compressed into single variables. The compression of this data might open the possibility for points to be lost to an expansive list of points thus limiting the accuracy of the prediction. In essence, the method would be handicapped by its size.
+
+![](rnn.png) 
+![](Screenshot_5.png)
+These illustrate the recurrent nerual network method framework
 
 ## Method 2: 
 
 A Bayesian model is a statistical method where probability is used to represent uncertainty within a model using Bayes’ rule. This method updates the probability of an initial hypothesis as more evidence and information becomes available. 
 
-![] Screenshot_4.png
+![](Screenshot_4.png)
 
 -H is the hypothesis that may be influenced by the data- what is the outcome we are looking for?
 
