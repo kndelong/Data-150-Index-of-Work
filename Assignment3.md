@@ -15,7 +15,7 @@ Neural networks are machine learning programs inspired by the biology of a brain
 This an illustration of a simple feed forward neural network
 
 
-A recurrent neural network (RNNs) is a FFNN with enhancements. Nodes are connected through passes of the program. Information is fed from the previous layer and from the same node of a pervious pass. This method could serve to identify connections between indicators that are not apparent to a strait forward method of analysis. RNNs are often used in applications that advance and complete information such as autocompletion. An application such as this to living standard data could be used to predict the ‘missing letters’ that could advance human development. Neural nets as a whole also allow for vast troves of data to be collected and used in conjunction with one another. A problem arises in entire datasets of indicators would have to be compressed into single variables. The compression of this data might open the possibility for points to be lost to an expansive list of points thus limiting the accuracy of the prediction. In essence, the method would be handicapped by its size.
+A recurrent neural network (RNNs) is a FFNN with enhancements. Nodes are connected through passes of the program. Information is fed from the previous layer and from the same node of a pervious pass. This method could serve to identify connections between indicators that are not apparent to a strait forward method of analysis. (Van Veen & Leijen, 2019) RNNs are often used in applications that advance and complete information such as autocompletion. An application such as this to living standard data could be used to predict the ‘missing letters’ that could advance human development. Neural nets as a whole also allow for vast troves of data to be collected and used in conjunction with one another. A problem arises in entire datasets of indicators would have to be compressed into single variables. The compression of this data might open the possibility for points to be lost to an expansive list of points thus limiting the accuracy of the prediction. In essence, the method would be handicapped by its size.
 
 ![](rnn.png) 
 ![](Screenshot_5.png)
@@ -42,5 +42,18 @@ A Bayesian model is a statistical method where probability is used to represent 
 Using this statistical method in the analysis of trends between living standard indicators we can find evidence in events that directly correlate with each other. A Bayesian model is a tool for inferring the probability of events occurring based on initial parameters. The accuracy of this method would be dependent on the accuracy of the initial data collected. Since the inputs of this method are selected by hand there is room for human bias to skew results. A random selection of evidence would control for this variable, but would not be all encompassing.
 
 ## Further Study
-	
-  Both aforementioned methods are powerful tools for identifying trends within sets of data. An exploration into how both methods could be combined into one neural network based on a pseudo-Bayesian model to identify the most likely of indicators that are the most closely linked would be an interesting course of research. A mix of the two methods would allow for a non-biased selection of living standard indicators and power a tool that can be adapted for many purposes. 
+
+Both aforementioned methods are powerful tools for identifying trends within sets of data. An exploration into how both methods could be combined into one neural network based on a pseudo-Bayesian model to identify the most likely of indicators that are the most closely linked would be an interesting course of research. A mix of the two methods would allow for a non-biased selection of living standard indicators and power a tool that can be adapted for many purposes. 
+  
+## Citations
+
+1. Bayesian Spatial Modeling. (n.d.). Retrieved April 19, 2020, from http://gispopsci.org/bayesian-spatial-modeling/
+
+2. Elman, J. L. (1990). Finding Structure in Time. Cognitive Science, 14(2), 179–211. doi: 10.1207/s15516709cog1402_1
+
+3. Hardesty, L. (2017, April 14). Explained: Neural networks. Retrieved from http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
+
+4. Shleifer, A., & Treisman, D. (2005). A Normal Country: Russia After Communism. Journal of Economic Perspectives, 19(1), 151–174.
+Van Veen, F. & Leijnen, S. (2019). The Neural Network Zoo. Retrieved from https://www.asimovinstitute.org/neural-network-zoo
+
+
