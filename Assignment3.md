@@ -35,7 +35,7 @@ A Bayesian model is a statistical method where probability is used to represent 
 
 -P(H | E) is the posterior probability or the probability of H given E- what we want to know
 
--P(E |H) is the probability of E based on H or likelihood. The function is a function of E- a model that describes the data
+-P(E | H) is the probability of E based on H or likelihood. The function is a function of E- a model that describes the data
 
 -P(E) is the marginal likelihood or model evidence. This is the same for all hypotheses being tested
 
