@@ -54,6 +54,7 @@ Both aforementioned methods are powerful tools for identifying trends within set
 3. Hardesty, L. (2017, April 14). Explained: Neural networks. Retrieved from http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
 
 4. Shleifer, A., & Treisman, D. (2005). A Normal Country: Russia After Communism. Journal of Economic Perspectives, 19(1), 151–174.
-Van Veen, F. & Leijnen, S. (2019). The Neural Network Zoo. Retrieved from https://www.asimovinstitute.org/neural-network-zoo
+
+5. Van Veen, F. & Leijnen, S. (2019). The Neural Network Zoo. Retrieved from https://www.asimovinstitute.org/neural-network-zoo
 
 
